@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient(to bottom right, #0000cc 0%, #ffff00 100%)
+    
+}
+
+.cim{
+    color: gold;
+    text-align: center;
+    font-size: 69px;
+}
+
+.fejlec{
+    text-align: center;
+    width: 1500px;
+}
+
+.fejlec2{
+    text-align: center;
+}
+
+.bottom{
+    margin-bottom: 69px;
+}
+
+.top{
+    margin-top: 69px;
+}
+
+.eler{
+    text-align: center;
+    color: rgb(148, 126, 0);
+    font-size: 59px;
+}
+
+.logok{
+    text-align: center;
+
+}
+
+.ins{
+    width: 150px;
+}
+
+.twit{
+    width: 110px;
+    
+}
+
+.jamesbotond{
+    width: 500px;
+    margin-left: 670px;
+}
