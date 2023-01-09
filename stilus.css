@@ -65,19 +65,19 @@ body{
 
 @media only screen and (max-width: 600px) {
     .cim{
-        font-size: 35px;
+        font-size: 50px;
     }
     
     .fejlec{
-        width: 380px;
+        width: 500px;
     }
 
     .eler{
-        font-size: 35px;
+        font-size: 50px;
     }
 
     .jamesbotond{
-        width: 400px;
+        width: 536px;
     }
     
     .jamesbotond2{
@@ -85,7 +85,193 @@ body{
     }
     
     .johnviktor{
+        width: 536px;
+    }
+    
+    .johnviktor2{
+        float: left;
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .cim{
+        font-size: 35px;
+    }
+    
+    .fejlec{
+        width: 450px;
+    }
+
+    .eler{
+        font-size: 35px;
+    }
+
+    .jamesbotond{
+        width: 486px;
+    }
+    
+    .jamesbotond2{
+        margin: auto;
+    }
+    
+    .johnviktor{
+        width: 486px;
+    }
+    
+    .johnviktor2{
+        float: left;
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .cim{
+        font-size: 35px;
+    }
+    
+    .fejlec{
         width: 400px;
+    }
+
+    .eler{
+        font-size: 35px;
+    }
+
+    .jamesbotond{
+        width: 437px;
+    }
+    
+    .jamesbotond2{
+        margin: auto;
+    }
+    
+    .johnviktor{
+        width: 437px;
+    }
+    
+    .johnviktor2{
+        float: left;
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .cim{
+        font-size: 35px;
+    }
+    
+    .fejlec{
+        width: 370px;
+    }
+
+    .eler{
+        font-size: 35px;
+    }
+
+    .jamesbotond{
+        width: 385px;
+    }
+    
+    .jamesbotond2{
+        margin: auto;
+    }
+    
+    .johnviktor{
+        width: 385px;
+    }
+    
+    .johnviktor2{
+        float: left;
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .cim{
+        font-size: 35px;
+    }
+    
+    .fejlec{
+        width: 330px;
+    }
+
+    .eler{
+        font-size: 35px;
+    }
+
+    .jamesbotond{
+        width: 335px;
+    }
+    
+    .jamesbotond2{
+        margin: auto;
+    }
+    
+    .johnviktor{
+        width: 335px;
+    }
+    
+    .johnviktor2{
+        float: left;
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .cim{
+        font-size: 35px;
+    }
+    
+    .fejlec{
+        width: 280px;
+    }
+
+    .eler{
+        font-size: 35px;
+    }
+
+    .jamesbotond{
+        width: 285px;
+    }
+    
+    .jamesbotond2{
+        margin: auto;
+    }
+    
+    .johnviktor{
+        width: 285px;
+    }
+    
+    .johnviktor2{
+        float: left;
+        margin: auto;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    .cim{
+        font-size: 25px;
+    }
+    
+    .fejlec{
+        width: 150px;
+    }
+
+    .eler{
+        font-size: 25px;
+    }
+
+    .jamesbotond{
+        width: 155px;
+    }
+    
+    .jamesbotond2{
+        margin: auto;
+    }
+    
+    .johnviktor{
+        width: 155px;
     }
     
     .johnviktor2{
