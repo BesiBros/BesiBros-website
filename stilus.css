@@ -48,9 +48,49 @@ body{
 
 .jamesbotond{
     width: 500px;
+}
+
+.jamesbotond2{
+    float: left;
     margin-left: 400px;
 }
 
 .johnviktor{
     width: 595px;
+}
+
+.johnviktor2{
+    float: right;
+    margin-right: 300px;
+}
+
+@media only screen and (max-width: 600px) {
+    .cim{
+        font-size: 35px;
+    }
+    
+    .fejlec{
+        width: 380px;
+    }
+
+    .eler{
+        font-size: 35px;
+    }
+
+    .jamesbotond{
+        width: 400px;
+    }
+    
+    .jamesbotond2{
+        margin: auto;
+    }
+    
+    .johnviktor{
+        width: 400px;
+    }
+    
+    .johnviktor2{
+        float: left;
+        margin: auto;
+    }
 }
