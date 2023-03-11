@@ -45,6 +45,15 @@ body{
     
 }
 
+.tabla{
+    margin: auto;
+}
+
+.kozep{
+    margin: auto;
+    text-align: center;
+}
+
 .jamesbotond{
     width: 500px;
 }
@@ -63,6 +72,15 @@ body{
     margin-right: 300px;
 }
 
+.FB1{
+    width: 595px;
+}
+
+.FB11{
+    float: right;
+    margin-right: 620px;
+}
+
 @media only screen and (max-width: 600px) {
     .cim{
         font-size: 50px;
@@ -77,7 +95,7 @@ body{
     }
 
     .jamesbotond{
-        width: 536px;
+        width: 200px;
     }
     
     .jamesbotond2{
@@ -85,12 +103,25 @@ body{
     }
     
     .johnviktor{
-        width: 536px;
+        width: 200px;
+        height: 135px;
     }
     
     .johnviktor2{
         float: left;
         margin: auto;
+    }
+    .FB1{
+        width: 230px;
+    }
+    
+    .FB11{
+        float: right;
+        margin: auto;
+    }
+    .tabla{
+        margin: auto;
+        
     }
 }
 
@@ -108,7 +139,7 @@ body{
     }
 
     .jamesbotond{
-        width: 486px;
+        width: 200px;
     }
     
     .jamesbotond2{
@@ -116,12 +147,15 @@ body{
     }
     
     .johnviktor{
-        width: 486px;
+        width: 200px;
     }
     
     .johnviktor2{
         float: left;
         margin: auto;
+    }
+    .FB1{
+        width: 230px;
     }
 }
 
@@ -139,7 +173,7 @@ body{
     }
 
     .jamesbotond{
-        width: 437px;
+        width: 190px;
     }
     
     .jamesbotond2{
@@ -147,12 +181,15 @@ body{
     }
     
     .johnviktor{
-        width: 437px;
+        width: 190px;
     }
     
     .johnviktor2{
         float: left;
         margin: auto;
+    }
+    .FB1{
+        width: 200px;
     }
 }
 
@@ -170,7 +207,7 @@ body{
     }
 
     .jamesbotond{
-        width: 385px;
+        width: 200px;
     }
     
     .jamesbotond2{
@@ -178,12 +215,15 @@ body{
     }
     
     .johnviktor{
-        width: 385px;
+        width: 200px;
     }
     
     .johnviktor2{
         float: left;
         margin: auto;
+    }
+    .FB1{
+        width: 230px;
     }
 }
 
@@ -201,7 +241,7 @@ body{
     }
 
     .jamesbotond{
-        width: 335px;
+        width: 180px;
     }
     
     .jamesbotond2{
@@ -209,12 +249,16 @@ body{
     }
     
     .johnviktor{
-        width: 335px;
+        width: 180px;
+        height: 120px;
     }
     
     .johnviktor2{
         float: left;
         margin: auto;
+    }
+    .FB1{
+        width: 200px;
     }
 }
 
@@ -232,7 +276,7 @@ body{
     }
 
     .jamesbotond{
-        width: 285px;
+        width: 150px;
     }
     
     .jamesbotond2{
@@ -240,12 +284,16 @@ body{
     }
     
     .johnviktor{
-        width: 285px;
+        width: 150px;
+        height: 100px;
     }
     
     .johnviktor2{
         float: left;
         margin: auto;
+    }
+    .FB1{
+        width: 200px;
     }
 }
 
@@ -263,7 +311,7 @@ body{
     }
 
     .jamesbotond{
-        width: 155px;
+        width: 130px;
     }
     
     .jamesbotond2{
@@ -271,11 +319,15 @@ body{
     }
     
     .johnviktor{
-        width: 155px;
+        width: 130px;
+        height: 87px;
     }
     
     .johnviktor2{
         float: left;
         margin: auto;
+    }
+    .FB1{
+        width: 190px;
     }
 }
