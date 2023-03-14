@@ -85,6 +85,10 @@ a{
     margin-right: 620px;
 }
 
+.manga{
+    width: 400px;
+}
+
 @media only screen and (max-width: 1520px) {
     .fejlec{
         width: 950px;
@@ -198,6 +202,9 @@ a{
     }
     .FB1{
         width: 230px;
+    }
+    .manga{
+        width: 250px;
     }
 }
 
@@ -372,5 +379,8 @@ a{
     }
     .FB1{
         width: 190px;
+    }
+    .manga{
+        width: 150px;
     }
 }
