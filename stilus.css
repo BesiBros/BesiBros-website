@@ -275,6 +275,9 @@ a{
     .FB1{
         width: 230px;
     }
+    .manga{
+        width: 100px;
+    }
 }
 
 @media only screen and (max-width: 400px) {
